@@ -1,0 +1,21 @@
+.sidebar{
+    background-image: white;
+    position: fixed;
+}
+.sidebar li{
+    margin-bottom: 2em;
+}
+.sidebar li:hover span{
+    display: inline-block;
+    transform: translate(5px);
+}
+.sidebar svg{
+    margin-right: 5px;
+}
+.sidebartext{
+    margin-top: 20%;
+    margin-left: 20%;
+}
+.sidebar_margin{
+    margin-left: 20%;
+}

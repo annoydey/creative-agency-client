@@ -1,0 +1,21 @@
+.usersidebar{
+    background-image: white;
+    position: fixed;
+}
+.usersidebar li{
+    margin-bottom: 2em;
+}
+.usersidebar li:hover span{
+    display: inline-block;
+    transform: translate(5px);
+}
+.usersidebar svg{
+    margin-right: 5px;
+}
+.usersidebartext{
+    margin-top: 20%;
+    margin-left: 20%;
+}
+.usersidebar_margin{
+    margin-left: 20%;
+}

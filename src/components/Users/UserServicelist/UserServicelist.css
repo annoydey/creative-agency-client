@@ -1,0 +1,8 @@
+.usersrvlist{
+    background-color: #f4f7fc;
+    height: 97vh; 
+    z-index: -1;
+}
+.ordercard{
+    border-radius: 10px;
+}

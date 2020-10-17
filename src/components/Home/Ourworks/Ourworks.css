@@ -1,0 +1,16 @@
+.carouselhome{
+    margin-left: 5%;
+    width: 90%;
+}
+.carouseloutline{
+    height: 90%;
+    width: 100%;
+    background-color: #111430;
+    z-index: -1;
+}
+.h1carousel{
+    margin-top: 12%;
+}
+.imgs{
+    height:500px;
+}

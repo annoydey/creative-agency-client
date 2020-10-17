@@ -1,0 +1,16 @@
+.header-container{
+    height: 850px;
+    position: relative;
+}
+.header-container::after{
+    height: 850px;
+    content: '';
+    position: absolute;
+    top: 0;
+    width: 100%;
+    right: 0;
+    background-color: #FDD062;
+    transform: skewY(-3deg);
+    z-index: -1;
+    margin-top: -60px;
+}
