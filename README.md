@@ -3,7 +3,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 [CREATIVE AGENCY – A SERVICE SELLER WEB APPLICATION](https://github.com/annoydey/creative-agency-client.git)
 
-Features<h1> 
+#Features<h1> 
 Site is responsive, it has firebase authentication and a collection of e-mails in MongoDB from where it will differentiate whether the logged in user is a guest or an admin.
 
 Client <h1>    
