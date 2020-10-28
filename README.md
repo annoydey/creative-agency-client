@@ -15,19 +15,22 @@ Admin
 *	An admin can add a new service from the dashboard which will be added in the home page services section so that customer can ask for that service  
 
 Technology Used  
-*React.js  
-*react-hook-form  
-*react-router-dom  
-*Firebase auth  
-*Firebase hosting  
-*custom css  
-*Bootstrap  
-*Node.js  
-*Express.js  
-*MongoDB  
-*Base64  
-*Heroku deploy  
+* React.js  
+* react-hook-form  
+* react-router-dom  
+* Firebase auth  
+* Firebase hosting  
+* custom css  
+* Bootstrap  
+* Node.js  
+* Express.js  
+* MongoDB  
+* Base64  
+* Heroku deploy  
 
 [Website Link](https://creative-agency17.web.app/)  
 
-[Server Repository](https://github.com/annoydey/creative-agency-server.git)  
+[Server Repository](https://github.com/annoydey/creative-agency-server.git)     
+
+[Resume Link](https://drive.google.com/file/d/1jmSUwMqBiAngCEs62cNgkAIyI6z1SwNo/view?usp=sharing)
+
