@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 
 [CREATIVE AGENCY – A SERVICE SELLER WEB APPLICATION](https://github.com/annoydey/creative-agency-client.git)
-
+# This is an <h1> tag
 ##Features
 Site is responsive, it has firebase authentication and a collection of e-mails in MongoDB from where it will differentiate whether the logged in user is a guest or an admin.
 
@@ -28,9 +28,9 @@ Site is responsive, it has firebase authentication and a collection of e-mails i
 * Base64  
 * Heroku deploy  
 
-##[Website Link](https://creative-agency17.web.app/)  
+[Website Link](https://creative-agency17.web.app/)  
 
-##[Server Repository](https://github.com/annoydey/creative-agency-server.git)     
+[Server Repository](https://github.com/annoydey/creative-agency-server.git)     
 
-##[Resume Link](https://drive.google.com/file/d/1jmSUwMqBiAngCEs62cNgkAIyI6z1SwNo/view?usp=sharing)
+[Resume Link](https://drive.google.com/file/d/1jmSUwMqBiAngCEs62cNgkAIyI6z1SwNo/view?usp=sharing)
 
