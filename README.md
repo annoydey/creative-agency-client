@@ -3,18 +3,18 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 [CREATIVE AGENCY – A SERVICE SELLER WEB APPLICATION](https://github.com/annoydey/creative-agency-client.git)
 
-Features 
+##Features 
 Site is responsive, it has firebase authentication and a collection of e-mails in MongoDB from where it will differentiate whether the logged in user is a guest or an admin.
 
-Client 
+##Client 
 *	A customer can order for a service which is saved in a database  
 *	A customer can write a review which will be added in the home page review section  
 
-Admin     
+##Admin     
 *	An admin can see orders in the dashboard and also add an admin email  
 *	An admin can add a new service from the dashboard which will be added in the home page services section so that customer can ask for that service  
 
-Technology Used    
+##Technology Used    
 * React.js  
 * react-hook-form  
 * react-router-dom  
