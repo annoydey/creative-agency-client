@@ -1,6 +1,3 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-
 [CREATIVE AGENCY – A SERVICE SELLER WEB APPLICATION](https://github.com/annoydey/creative-agency-client.git)
 
 Features 
